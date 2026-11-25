@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-11-23T12:54:13.822Z",
+  "mapLoaded": true,
+  "routeSelected": "335-E HAL NP-KDGKadugodi Bus Stand→HAL New Public School",
+  "subtitle": "Regular · 26 stops · 1 trips/day",
+  "timings": "First bus14:05Last bus14:05Frequency1 trip todayTrips / day1Ordinary1Departures by hour00:00–01:00 — 0 departures01:00–02:00 — 0 departures02:00–03:00 — 0 departures03:00–04:00 — 0 departures04:00–05:00 — 0 departures05:00–06:00 — 0 departures06:00–07:00 — 0 departures06:00–07:00 — 0 departures07:00–08:00 — 0 departures08:00–09:00 — 0 departures09:00–10:00 — 0 departures10:00–11:00 — 0 departures11:00–12:00 — 0 departures12:00–13:00 — 0 departures13:00–14:00 — 0 departures14:00–15:00 — 1 departure15:00–16:00 — 0 departures16:00–17:00 — 0 departures17:00–18:00 — 0 departures17:00–18:00 — 0 departures18:00–19:00 — 0 departures19:00–20:00 — 0 departures20:00–21:00 — 0 departures21:00–22:00 — 0 departures22:00–23:00 — 0 departures23:00–00:00 — 0 departures06121800Night 6 pm – 6 am0 trips · 0%Day 6 am – 6 pm1 trip · 100%Wedges gold while the sun is up in Bengaluru today, 06:22–17:51Busiest hour 14:00–15:00 · 1 departureThis working only · BMTC GTFS (bmtc-gtfs, ODbL).",
+  "stopsRendered": 26,
+  "sampleStops": [
+    "Kadugodi Bus Stand",
+    "Hope Farm",
+    "BPL ITPL Road",
+    "GR Tech Park ITPL",
+    "ITPL",
+    "Pattandur Agrahara Gate",
+    "Big Bazzar ITPL",
+    "Sathya Sai Hospital"
+  ],
+  "errorsCount": 0,
+  "errors": [],
+  "screenshots": [
+    "G:\\NammaBusLive\\screenshots\\main_map_real.png",
+    "G:\\NammaBusLive\\screenshots\\search_results_real.png",
+    "G:\\NammaBusLive\\screenshots\\route_card_timings_real.png"
+  ]
+}

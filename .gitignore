@@ -1,0 +1,59 @@
+# ==============================================================================
+# NAMMA BUS LIVE — PUBLIC REPOSITORY .GITIGNORE
+# ==============================================================================
+
+# Private Backend Implementation & Business Logic (Protected / Deployed Privately)
+backend/
+tests/
+scripts/
+Dockerfile
+Dockerfile.otp
+docker-compose.yml
+Caddyfile
+requirements.txt
+pytest.ini
+.env
+.env.*
+*.key
+*.pem
+*.cert
+*.crt
+
+# Raw GTFS Datasets & Transport Data Archives (Links provided in README)
+bmtc-gtfs-main/
+data_sources/
+otp_data/
+processed_data/
+namma bus live/data/
+namma bus live/live/
+dump.rdb
+*.rdb
+*.dump
+*.sql
+*.obj
+*.zip
+
+# Local Tools, Binaries & Shaded JARs
+tools/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Browser & Test Artifacts
+.tmp_chrome_*/
+test-results/
+playwright-report/
+
+# Scratch & Temporary Files
+scratch/
+*.log
+*.tmp
+*.bak
+
+# OS & Editor Metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
